@@ -1,0 +1,157 @@
+Name of teacher,Day,1,2,3,4,5,6,7,8
+Mr. CS ,Mon,12A CS,11 A+B IP,12A+B IP,,11A CS,,11A CS PR,11A CS PR
+Mr. CS ,Tue,12A CS,11 A+B IP,12A+B IP,,11A CS,,11A CS PR,11A CS PR
+Mr. CS ,Wed,12A CS,11 A+B IP,12A+B IP,,11A CS,,12A CS PR,12A CS PR
+Mr. CS ,Thur,12A CS,11 A+B IP,12A+B IP,,11A CS,11A +B PR IP,12A CS PR,12A CS PR
+Mr. CS ,Fri,12A CS,11 A+B IP,,,11A CS,11A +B PR IP,12A+B IP PR,12A+B IP PR
+Mr. CS ,Sat,,,12A+B IP,,11A+B PR IP,11A +B PR IP,12A+B IP PR,12A+B IP PR
+Mrs. Chemistry,Mon,11A,,10B,12A,,,12A B2 PR,12A B2 PR
+Mrs. Chemistry,Tue,11A,,10B,12A,,,12A B2 PR,12A B2 PR
+Mrs. Chemistry,Wed,11A,,,12A,10A,,11A B1 PR,11A B1 PR
+Mrs. Chemistry,Thur,11A,,,12A,10A,10B PR,11A B1 PR,11A B1 PR
+Mrs. Chemistry,Fri,11A,,,12A,12A B1 PR,12A B1 PR,11A B2 PR,11A B2 PR
+Mrs. Chemistry,Sat,,,,10A PR,12A B1 PR,12A B1 PR,11A B2 PR,11A B2 PR
+Ms . Physics,Mon,,12A,,11A,10A,,12A B1 PR,12A B1 PR
+Ms . Physics,Tue,,12A,,11A,10A,,12A B1 PR,12A B1 PR
+Ms . Physics,Wed,,12A,10B,11A,,,11A B2 PR,11A B2 PR
+Ms . Physics,Thur,,12A,10B,11A,,10B PR,11A B2 PR,11A B2 PR
+Ms . Physics,Fri,,12A,,11A,12A B2 PR,12A B2 PR,11A B1 PR,11A B1 PR
+Ms . Physics,Sat,12A,12A,,10A,12A B2 PR,12A B2 PR,11A B1 PR,11A B1 PR
+Mrs. Biology,Mon,12A,,7B,,11A,8B,11A PR ,11A PR 
+Mrs. Biology,Tue,12A,,7B,,11A,8B,11A PR ,11A PR 
+Mrs. Biology,Wed,12A,,7B,,11A,8B,12A PR,12A PR
+Mrs. Biology,Thur,12A,,7B,,11A,10B PR,12A PR,12A PR
+Mrs. Biology,Fri,12A,10B,7B,,11A,10A ,,
+Mrs. Biology,Sat,,,7B,10A PR,11A,10A ,,10B
+Mr. Hindi,Mon,,11A+B,12A+B,,,,,
+Mr. Hindi,Tue,,11A+B,12A+B,,,,,
+Mr. Hindi,Wed,,11A+B,12A+B,,,,,
+Mr. Hindi,Thur,,11A+B,12A+B,,,,,
+Mr. Hindi,Fri,,11A+B,,,,,,
+Mr. Hindi,Sat,12B,12B,12A+B,,,,,12A+B
+Ms. Math,Mon,,11A+B,12A+B,,,,,
+Ms. Math,Tue,,11A+B,12A+B,,,,,
+Ms. Math,Wed,,11A+B,12A+B,,,,,
+Ms. Math,Thur,,11A+B,12A+B,,,11A+B,,
+Ms. Math,Fri,,11A+B,,,,11A+B,12A+B,12A+B
+Ms. Math,Sat,11A,11A,12A+B,,11A+B,11A+B,12A+B,12A+B
+Mr. Econ,Mon,12B,8A,,,11B,11B,12B,12B
+Mr. Econ,Tue,12B,8A,,11B,,11B,,
+Mr. Econ,Wed,12B,8A,,11B,,11B,,8B
+Mr. Econ,Thur,12B,8A,,11B,,,,
+Mr. Econ,Fri,12B,,12B,11B,,,,8A
+Mr. Econ,Sat,11B,11B,,11B,,12B,,8A
+Mrs. Accounts,Mon,11B ACC,,11B BST,12B ACC,12B BST,12B BST,11B BST,11B BST
+Mrs. Accounts,Tue,11B ACC,,11B BST,12B ACC,12B BST,12B BST,,11B BST
+Mrs. Accounts,Wed,11B ACC,,11B BST,12B ACC,12B BST,12B BST,,11B ACC
+Mrs. Accounts,Thur,11B ACC,,11B BST,12B ACC,12B BST,12B ACC,12B ACC,11B ACC
+Mrs. Accounts,Fri,11B ACC,,11B BST,12B ACC,12B BST,12B ACC,,11B ACC
+Mrs. Accounts,Sat,,,11B BST,12B ACC,12B BST,,,11B ACC
+Mr. English,Mon,,12B ,11A,11B,12A,11A,,
+Mr. English,Tue,,12B ,11A,,12A,,11B,
+Mr. English,Wed,,12B ,11A,,12A,,11B,12B
+Mr. English,Thur,,12B ,11A,,12A,,11B,
+Mr. English,Fri,,12B ,12A,,,,11B,
+Mr. English,Sat,,,11A,12A,,,11B,
+Ms. GS,Mon,,10B B1 (AI PR),,6A,,6B,8A,
+Ms. GS,Tue,8B,,,10A B1 (AI PR),,11A,8A,7A
+Ms. GS,Wed,,,,,,12A,12B,
+Ms. GS,Thur,7B,6B,,,11B,9A B1 (AI PR),,
+Ms. GS,Fri,7A,,8B,6A,,,7B,
+Ms. GS,Sat,8B,8B,,,,,,
+Mrs. Librarian,Mon,,,,,6B,12A LIB,,8B
+Mrs. Librarian,Tue,,,,,11B LIB,12A GS,12B LIB,12B GS
+Mrs. Librarian,Wed,,,,,11B GS,11A LIB,7A,
+Mrs. Librarian,Thur,,,,9A,6B (COMP),,7B,
+Mrs. Librarian,Fri,7B ACP,,11A GS,10A,,,8A,6A
+Mrs. Librarian,Sat,6B,6B,,,,,10B,
+Mr. PE,Mon,,,8A ACP,8A,11A PHE,,11A PR,11A PR
+Mr. PE,Tue,,,8B,,11A PHE,,11A PR,11A PR
+Mr. PE,Wed,8B,,6A,6A,11A PHE,10A,,10B
+Mr. PE,Thur,,,,,11A PHE,11A+B,,10B
+Mr. PE,Fri,,7B,,,11A PHE,11A+B,12A+B,12A+B
+Mr. PE,Sat,6A,6A,,,,6B,,
+Ms. Math Jr,Mon,6B,10A,,10A,7A,,7A,7B
+Ms. Math Jr,Tue,6B,10A,,7B,7A,,,7B
+Ms. Math Jr,Wed,6B,10A,,7B,7A,,,6B
+Ms. Math Jr,Thur,6B,10A,9A,7B,7A,,,6B
+Ms. Math Jr,Fri,,10A,9A,7B,7A,,,6B
+Ms. Math Jr,Sat,,,9A,7B,,,7A,
+Ms. History,Mon,,8B,9A,9A,10B,6A,,8A
+Ms. History,Tue,,8B,9A,8A,10B,6A,,8A
+Ms. History,Wed,,8B,9A,8A,10B,6A,,6A
+Ms. History,Thur,,8B,,8A,10B,6A,,6A
+Ms. History,Fri,,8B,,8A,10B,6A,,8B
+Ms. History,Sat,9B,9B,,8B,10B,10B,8A,
+Mr. Geography,Mon,6A,,10A,10B,,9A,,
+Mr. Geography,Tue,6A,,10A,10B,,9A,,
+Mr. Geography,Wed,6A,,10A,10B,,,,10A
+Mr. Geography,Thur,6A,,10A,10B,,,9A,
+Mr. Geography,Fri,6A,,10A,10B,,,9A,10B
+Mr. Geography,Sat,,,10A,10B,,6A,9A,
+Ms. Music,Mon,7B,7A,,,,10A,,6A
+Ms. Music,Tue,7B,7A,6B,9A,,6B,,6A
+Ms. Music,Wed,7B,7A,,,,10B,,
+Ms. Music,Thur,8B,,,,,10A,8A,8A
+Ms. Music,Fri,,8A,8B,,,10B,,
+Ms. Music,Sat,7B,7B,,,,,6B,6A
+COMP INST.,Mon,8B,10B PR(WITH WE),12 IP TH,10A PR (WITH WE),,10B PR WITH YOGA,7B,
+COMP INST.,Tue,,10B,12 IP TH,,6A,,7B,
+COMP INST.,Wed,,10B,12 IP TH,10A,,9A,12A PR,12A PR
+COMP INST.,Thur,,10B,12 IP TH,10A,9A PR (PHE),9A PR WITH WE,12A PR,12A PR
+COMP INST.,Fri,,,7A,8B,8A,9A,,10A
+COMP INST.,Sat,,,7A,8A,6B,9A,,10A PR WITH YOGA
+Ms. Civics,Mon,9A,,6B,8B,,8A,10A,10A
+Ms. Civics,Tue,9A,,,8B,6B,8A,10A,10A
+Ms. Civics,Wed,9A,,6B,8B,,8A,10A,
+Ms. Civics,Thur,9A,,6B,,8B,8A,10A,8B
+Ms. Civics,Fri,8B ACP,,6B,,,8A,10A,
+Ms. Civics,Sat,9A,9A,6B,,,8A,8B,
+Ms. Hindi Jr,Mon,7A,7B,6A,,,,10B,10B
+Ms. Hindi Jr,Tue,7A,7B,6A,,,,10B,10B
+Ms. Hindi Jr,Wed,7A,7B,,,6A,,10B,7A
+Ms. Hindi Jr,Thur,7A,7B,,,6A,,10B,7A ACP
+Ms. Hindi Jr,Fri,9A,,,9A,6A,,10B,7B
+Ms. Hindi Jr,Sat,7A,7A,,9A,6A,7A,,7B
+Mr. Social Science,Mon,9A,6B,,7B,8B,,10A+B,10A+B
+Mr. Social Science,Tue,9A,6B,8A,6A,8B,,10A+B,10A+B
+Mr. Social Science,Wed,9A,,8A,,8B,6B,10A+B,
+Mr. Social Science,Thur,9A,7A,8A,,,,10A+B,7B
+Mr. Social Science,Fri,9A,7A,6A,9A,,,10A+B,
+Mr. Social Science,Sat,8A,8A,6A,9A,7A,,7B,
+Mr. English Jr,Mon,10A,,,6B,8A,,8B,
+Mr. English Jr,Tue,10A,,,,8A,10A,8B,6B
+Mr. English Jr,Wed,10A,,,6B,8A,,8B,9A ACP
+Mr. English Jr,Thur,10A,,,6B,8A,,8B,
+Mr. English Jr,Fri,10A,9A,8A,6B,9A,,8B,
+Mr. English Jr,Sat,10A,10A,8A,6B,9A,,10A,8B
+Ms. History Jr,Mon,10B,9A,7A,,,7B,6A,
+Ms. History Jr,Tue,10B,9A,7A,,,7B,6A,7A
+Ms. History Jr,Wed,10B,9A,7A,,,7B,6A,
+Ms. History Jr,Thur,10B,9A,7A,,,7B,6A,
+Ms. History Jr,Fri,10B,,10B,,,7B,6A,7A
+Ms. History Jr,Sat,10B,10B,10B,6A,7B,,,
+TGT SCIENCE,Mon,8A,6A,,7A,9A,,6B,9A
+TGT SCIENCE,Tue,8A,6A,,7A,9A,,6B,
+TGT SCIENCE,Wed,8A,6A,,7A,9A,,6B,
+TGT SCIENCE,Thur,8A,6A,,7A,,8B,6B,9A
+TGT SCIENCE,Fri,8A,6A,,7A,6B,8B,6B,9A
+TGT SCIENCE,Sat,,,8B,7A,8A,,6A,9A
+COACH,Mon,,,,,6A (COMP),,9A,7A
+COACH,Tue,,,,,,10B,7A,9A
+COACH,Wed,,,8B,,6B,,8A,7B
+COACH,Thur,,,,6A,9A B1 (AI PR),,7A,10A
+COACH,Fri,,6B,,,10A,,,
+COACH,Sat,,,,,11A+B,,12A+B,
+YOGA,Mon,,,,,,10B WITH AI PR,7A,
+YOGA,Tue,,,,,,,,
+YOGA,Wed,,,,9A,,,7B,8A
+YOGA,Thur,,,6A,8B,,12A,,12B
+YOGA,Fri,6B,,,,11B,,,
+YOGA,Sat,,,,11A,,,,10A WITH AI PR
+TGT SST,Mon,,,8B,,7B,7A,,6B
+TGT SST,Tue,,,,6B,7B,7A,9AB,8B
+TGT SST,Wed,,6B,,,7B,7A,9AB,8B
+TGT SST,Thur,6B,,8B,,7B,7A,,7A
+TGT SST,Fri,7B,6B,,,8B,7A,,
+TGT SST,Sat,,,,,8B,7B,,6B
